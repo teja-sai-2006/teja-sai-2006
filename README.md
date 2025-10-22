@@ -23,4 +23,5 @@ I am a passionate computer science student with a strong interest in Data Scienc
 - **Python for Data Science** - *NPTEL*
 - **Introduction to Generative AI** - *IBM SkillsBuild*
 - **Digital Application Fundamentals (STEM)** - *Futureskills Prime*
-- ** OCI AI Foundations ** - *Oracle University*
+- **OCI AI Foundations** - *Oracle University*
+
