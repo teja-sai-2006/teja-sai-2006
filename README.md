@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Teja Sai Satti 👋
 
-<!--
-**teja-sai-2006/teja-sai-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate computer science student with a strong interest in Data Science, Machine Learning, and Application Development.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building new projects to add to my portfolio.
+- 🌱 I’m currently learning **Java** to expand my backend development skills.
+- 💬 Ask me about: Python, Data Structures, Data Science, and Generative AI.
+- 📫 How to reach me: https://www.linkedin.com/in/teja-sai-satti-3a0525320/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 My Tech Stack
+
+- **Languages:** Python, Java (Learning)
+- **Data Science:** Pandas, NumPy, Scikit-learn (based on your 'Python for Data Science' cert)
+- **Concepts:** Data Structures, Algorithms, Generative AI
+
+---
+
+### 🏆 My Certifications
+
+- **Programming, Data Structures and Algorithms using Python** - *NPTEL*
+- **Python for Data Science** - *NPTEL*
+- **Introduction to Generative AI** - *IBM SkillsBuild*
+- **Digital Application Fundamentals (STEM)** - *Futureskills Prime*
+- ** OCI AI Foundations ** - *Oracle University*
