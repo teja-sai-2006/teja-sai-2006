@@ -28,7 +28,7 @@ Demonstrates exceptional teamwork and problem-solving abilities, complemented by
 ### 💻 Languages
 | | | | | |
 |---|---|---|---|---|
-| Python | C++ | Java | JavaScript | C |
+| Python | C |
 
 ### 🧠 AI / ML / DL
 | | | | |
@@ -50,19 +50,18 @@ Demonstrates exceptional teamwork and problem-solving abilities, complemented by
 ### 🗄️ Data & Storage
 | | | | |
 |---|---|---|---|
-| PostgreSQL | MySQL | MongoDB | Elasticsearch |
-| Redis | | | |
+| MySQL|
 
 ### ☁️ Deploy & Cloud
 | | | | |
 |---|---|---|---|
-| Docker | Docker Compose | Kubernetes (basic) | AWS |
+| Docker | Docker Compose |
 | GCP | CI/CD (GitHub Actions) | | |
 
 ### 🌐 APIs & Web
 | | | | |
 |---|---|---|---|
-| REST APIs (Flask, FastAPI) | React.js | JSON | OAuth |
+| REST APIs (Flask, FastAPI)(basic) |React.js | JSON|
 
 ### 🛠️ Tools & Platforms
 | | | | |
